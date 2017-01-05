@@ -35,3 +35,8 @@
   margin: 20px;
   font-size: 24px;
 }
+
+#mainBody{
+  background-image:url("landscape.jpg");
+  background-size:cover;
+}
